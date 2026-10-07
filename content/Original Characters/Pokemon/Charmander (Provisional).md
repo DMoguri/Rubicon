@@ -1,0 +1,2 @@
+Species: Charmander
+Type: Fire

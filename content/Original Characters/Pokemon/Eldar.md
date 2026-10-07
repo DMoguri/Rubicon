@@ -1,0 +1,2 @@
+Species: Treecko
+Type: Grass

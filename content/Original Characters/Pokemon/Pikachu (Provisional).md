@@ -1,0 +1,2 @@
+Species: Pikachu
+Type: Electric

@@ -1,0 +1,2 @@
+Species: Eevee
+Type: Normal

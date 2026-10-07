@@ -1,0 +1,2 @@
+Species: Oshawott
+Type: Water
