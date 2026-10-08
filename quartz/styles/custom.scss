@@ -1,3 +1,9 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+/* Hide implementation folders from the Explorer */
+.explorer-content li:has(> .folder-container[data-folderpath="_assets/index"]),
+.explorer-content li:has(> .folder-container[data-folderpath="_canvas/index"]) {
+  display: none;
+}
