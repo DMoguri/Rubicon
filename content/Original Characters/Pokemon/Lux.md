@@ -1,5 +1,11 @@
-Species: Shinx
-Type: Electric
+![[Lux.png|200]]
+
+**Species:** Shinx
+**Type:** Electric
+
+### Personality:
+
+### Backstory:
 
 | Moveset      |
 | ------------ |

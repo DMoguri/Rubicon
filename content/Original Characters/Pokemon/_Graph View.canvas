@@ -1,17 +1,17 @@
 {
 	"nodes":[
-		{"id":"2664ca1260a18584","type":"group","x":-1300,"y":-380,"width":580,"height":380,"label":"Team Azure Flame"},
-		{"id":"59be8b09913fe206","type":"group","x":-1300,"y":-840,"width":580,"height":380,"label":"Team Raimei"},
-		{"id":"40d640b864ebb4bf","type":"group","x":-680,"y":-380,"width":580,"height":380,"label":"Untitled group"},
-		{"id":"e60051b7045998a4","type":"group","x":-680,"y":-840,"width":580,"height":380,"label":"Team Emerald"},
-		{"id":"3d8b7ba83542e7e2","type":"file","file":"Original Characters/Pokemon/Saint.md","x":-1280,"y":-800,"width":260,"height":320},
-		{"id":"0e2fad9fadfa80f3","type":"file","file":"Original Characters/Pokemon/Lux.md","x":-1000,"y":-800,"width":260,"height":320},
-		{"id":"6c1ef6e76a75cee5","type":"file","file":"Original Characters/Pokemon/Maple.md","x":-660,"y":-800,"width":260,"height":320},
-		{"id":"6990f8672da8b891","type":"file","file":"Original Characters/Pokemon/Eldar.md","x":-380,"y":-800,"width":260,"height":320},
-		{"id":"6b05ba2afc3546db","type":"file","file":"Original Characters/Pokemon/Aster.md","x":-1000,"y":-340,"width":260,"height":320},
-		{"id":"85541c3837ce2e6e","type":"file","file":"Original Characters/Pokemon/Charmander (Provisional).md","x":-1280,"y":-340,"width":260,"height":320},
-		{"id":"a14c093792fd8662","type":"file","file":"Original Characters/Pokemon/Aster.md","x":-380,"y":-340,"width":260,"height":320},
-		{"id":"01e51a3797608909","x":-660,"y":-340,"width":260,"height":320,"type":"file","file":"Original Characters/Pokemon/Pikachu (Provisional).md"}
+		{"id":"2664ca1260a18584","type":"group","x":-1560,"y":-440,"width":820,"height":700,"label":"Team Azure Flame"},
+		{"id":"59be8b09913fe206","type":"group","x":-1560,"y":-1220,"width":820,"height":700,"label":"Team Raimei"},
+		{"id":"40d640b864ebb4bf","type":"group","x":-700,"y":-440,"width":820,"height":700,"label":"Team Eden"},
+		{"id":"e60051b7045998a4","type":"group","x":-700,"y":-1220,"width":820,"height":700,"label":"Team Emerald"},
+		{"id":"85541c3837ce2e6e","type":"file","file":"Original Characters/Pokemon/Charmander (Provisional).md","x":-1540,"y":-400,"width":376,"height":640},
+		{"id":"6b05ba2afc3546db","type":"file","file":"Original Characters/Pokemon/Aster.md","x":-1136,"y":-400,"width":376,"height":640},
+		{"id":"6c1ef6e76a75cee5","type":"file","file":"Original Characters/Pokemon/Maple.md","x":-680,"y":-1180,"width":379,"height":640},
+		{"id":"6990f8672da8b891","type":"file","file":"Original Characters/Pokemon/Eldar.md","x":-271,"y":-1180,"width":379,"height":640},
+		{"id":"3d8b7ba83542e7e2","type":"file","file":"Original Characters/Pokemon/Saint.md","x":-1540,"y":-1180,"width":376,"height":640},
+		{"id":"0e2fad9fadfa80f3","type":"file","file":"Original Characters/Pokemon/Lux.md","x":-1136,"y":-1180,"width":376,"height":640},
+		{"id":"01e51a3797608909","type":"file","file":"Original Characters/Pokemon/Pikachu (Provisional).md","x":-680,"y":-400,"width":376,"height":640},
+		{"id":"a14c093792fd8662","type":"file","file":"Original Characters/Pokemon/Aster.md","x":-276,"y":-400,"width":376,"height":640}
 	],
 	"edges":[]
 }
