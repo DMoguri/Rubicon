@@ -1,7 +1,7 @@
-![[Saint.png|200]]
+![[Saint.png|200]]![[Saint (Jolteon).png|200]]
 
-**Species:** Eevee
-**Type:** Normal
+**Species:** Eevee | Jolteon
+**Type:** Normal | Electric
 
 ### Personality:
 
